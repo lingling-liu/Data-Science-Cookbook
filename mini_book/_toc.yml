@@ -7,6 +7,7 @@ sections:
 - file: docs/11-Statistics/00-Statistics-Introduction
   sections:
     - file: docs/11-Statistics/00-Hypothesis-Testing
+    - file: docs/11-Statistics/71-sampling
 
 - file: docs/12-Machine-Learning/00-Machine-Learning-Basics
   sections:
