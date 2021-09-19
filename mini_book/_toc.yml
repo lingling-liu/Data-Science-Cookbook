@@ -1,14 +1,11 @@
 format: jb-article
-root: docs/index
+root: index
 sections:
-- file: docs/about_py
-- file: docs/getting_started
-- file: docs/python_by_example
-- file: docs/11-Statistics/00-Statistics-Introduction
+- file: 11-Statistics/00-Statistics-Introduction
   sections:
-    - file: docs/11-Statistics/00-Hypothesis-Testing
-    - file: docs/11-Statistics/71-sampling
+    - file: 11-Statistics/00-Hypothesis-Testing
+    - file: 11-Statistics/71-sampling
 
-- file: docs/12-Machine-Learning/00-Machine-Learning-Basics
+- file: 12-Machine-Learning/00-Machine-Learning-Basics
   sections:
-    - file: docs/12-Machine-Learning/00-Linear-Regression
+    - file: 12-Machine-Learning/00-Linear-Regression
