@@ -4,4 +4,10 @@ sections:
 - file: docs/about_py
 - file: docs/getting_started
 - file: docs/python_by_example
-- file: docs/learn_more
+- file: docs/11-Statistics/00-Statistics-Introduction
+  sections:
+    - file: docs/11-Statistics/00-Hypothesis-Testing
+
+- file: docs/12-Machine-Learning/00-Machine-Learning-Basics
+  sections:
+    - file: docs/12-Machine-Learning/00-Linear-Regression
